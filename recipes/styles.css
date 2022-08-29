@@ -1,0 +1,36 @@
+* {
+    background-color: black;
+    margin:auto;
+    padding: 0
+    
+}
+img {
+    height: auto;
+    width: 400px;
+    
+}
+
+h1, h2, h3 {
+    color: blanchedalmond;
+    border-bottom: 1px solid red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    
+
+}
+
+p {
+    color: rgb(255, 230, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul > li {
+    color: rgb(142, 165, 42);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+ol > li {
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
